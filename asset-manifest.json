@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33ae25b6.css",
+    "main.js": "/static/js/main.b8e41e09.js",
+    "static/media/ai.png": "/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/desk.jpg": "/static/media/desk.c4c1e7ea904609273edd.jpg",
+    "static/media/blog03.png": "/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/sharpened2.png": "/static/media/sharpened2.d217ea56db94a9b27ece.png",
+    "static/media/blog02.png": "/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/modern.png": "/static/media/modern.58a766c1b4b0d6b431fa.png",
+    "static/media/visa2.png": "/static/media/visa2.a44145348b6b58075315.png",
+    "static/media/unlim.png": "/static/media/unlim.77721fdf5eb49f6d6369.png",
+    "static/media/etsy2.png": "/static/media/etsy2.3194836617461713cfa1.png",
+    "static/media/etsy.png": "/static/media/etsy.7dd5dea4f451ccad498c.png",
+    "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/static/media/logo.8ccacfdb0bced3bb819e68efac2d9536.svg",
+    "index.html": "/index.html",
+    "main.33ae25b6.css.map": "/static/css/main.33ae25b6.css.map",
+    "main.b8e41e09.js.map": "/static/js/main.b8e41e09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ae25b6.css",
+    "static/js/main.b8e41e09.js"
+  ]
+}
